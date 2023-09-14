@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="header">
         <img alt=''
-        className="header_logo"src="http://pngimg.com/uploads/amazon/amazon_PNG11.png" 
+        className="header_logo"src="https://www.amazon.com/ref=nav_logo" 
         />
         <div className="header_search">
             <input type="text" className="header_searchInput" />
